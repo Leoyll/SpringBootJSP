@@ -16,3 +16,4 @@ xxController.java
 //can not be @RestController
 @Controller
 public class xxController  ......  
+
